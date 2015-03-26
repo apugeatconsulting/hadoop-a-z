@@ -1,2 +1,2 @@
-# hadoop-a-z
-Hadoop A-Z
+# Hadoop A-Z
+
